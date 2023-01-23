@@ -12,13 +12,22 @@
 <a href="https://linuxdominicana.org.do" target="blank"><img align="center" src="linuxdo.png" alt="LINUXDO" height="30" width="100" /></a>
 </p>
 
+### 🌩️ Cloud Certs I have
+<p align="left">
+<a href="https://www.credly.com/earner/earned/badge/a1f25692-044b-4ee8-bb6a-c30a72fce27a" target="blank"><img align="center" src="awssolutionsarchitect.png" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/c8ea9327-43a8-4718-aadb-12f200504bec" target="blank"><img align="center" src="azureadministrator.png" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/aa8135e3-c830-41a3-8e7f-82510fece2f4" target="blank"><img align="center" src="az305.png" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/8d7d6225-c741-4077-b51f-99008c804466" target="blank"><img align="center" src="azuresolutionsarchitectexpert.png" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 ### 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3Amarcosfermin+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amarcosfermin+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amarcosfermin+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amarcosfermin+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amarcosfermin+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
