@@ -3,7 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&color=00FF00&center=true&size=30">
   </a>
 </h1>
+</p>
 
+### 💻 Organizations I lead
+<p align="left">
+<a href="https://fedose.com" target="blank"><img align="center" src="fedose.png" alt="FEDOSE" height="30" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://brocha.app" target="blank"><img align="center" src="brocha.png" alt="BROCHA" height="30" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linuxdominicana.org.do" target="blank"><img align="center" src="linuxdo.png" alt="LINUXDO" height="30" width="100" /></a>
+</p>
 
 ### 🛠️ My favorite tools
 
@@ -60,6 +67,5 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
 
 <hr>
