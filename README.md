@@ -6,7 +6,6 @@
 
 ### 💻 Organizations I lead
 <p align="left">
-<a href="https://fedose.com" target="blank"><img align="center" src="fedose.png" alt="FEDOSE" height="30" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://brocha.app" target="blank"><img align="center" src="brocha.png" alt="BROCHA" height="30" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
